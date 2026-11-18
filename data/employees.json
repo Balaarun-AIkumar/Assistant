@@ -1,0 +1,92 @@
+[
+  {
+    "employee_id": "E1001",
+    "country": "IN",
+    "office": "Bengaluru",
+    "department": "Engineering",
+    "grade": "L6",
+    "job_title": "Head of Engineering",
+    "manager_id": null
+  },
+  {
+    "employee_id": "E1002",
+    "country": "IN",
+    "office": "Bengaluru",
+    "department": "Engineering",
+    "grade": "L5",
+    "job_title": "Engineering Manager",
+    "manager_id": "E1001"
+  },
+  {
+    "employee_id": "E1003",
+    "country": "IN",
+    "office": "Bengaluru",
+    "department": "Engineering",
+    "grade": "L3",
+    "job_title": "Software Engineer",
+    "manager_id": "E1002"
+  },
+  {
+    "employee_id": "E1004",
+    "country": "IN",
+    "office": "Bengaluru",
+    "department": "Sales",
+    "grade": "L4",
+    "job_title": "Account Manager",
+    "manager_id": "E1009"
+  },
+  {
+    "employee_id": "E1005",
+    "country": "IN",
+    "office": "Bengaluru",
+    "department": "Human Resources",
+    "grade": "L4",
+    "job_title": "HR Business Partner",
+    "manager_id": "E1001"
+  },
+  {
+    "employee_id": "E2001",
+    "country": "LK",
+    "office": "Colombo",
+    "department": "Management",
+    "grade": "L6",
+    "job_title": "Country Director (Sri Lanka)",
+    "manager_id": null
+  },
+  {
+    "employee_id": "E2002",
+    "country": "LK",
+    "office": "Colombo",
+    "department": "Engineering",
+    "grade": "L5",
+    "job_title": "Engineering Manager",
+    "manager_id": "E2001"
+  },
+  {
+    "employee_id": "E2003",
+    "country": "LK",
+    "office": "Colombo",
+    "department": "Engineering",
+    "grade": "L2",
+    "job_title": "Associate Software Engineer",
+    "manager_id": "E2002"
+  },
+  {
+    "employee_id": "E2004",
+    "country": "LK",
+    "office": "Colombo",
+    "department": "Finance",
+    "grade": "L4",
+    "job_title": "Finance Manager (Sri Lanka)",
+    "manager_id": "E2001"
+  },
+  {
+    "employee_id": "E1009",
+    "country": "LK",
+    "office": "Colombo",
+    "department": "Sales",
+    "grade": "L5",
+    "job_title": "Regional Sales Manager",
+    "manager_id": "E2001"
+  }
+]
